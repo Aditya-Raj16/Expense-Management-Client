@@ -1,5 +1,5 @@
 {
-  "proxy": "https://expenseapp-xw3x.onrender.com",
+  "proxy": "https//127.0.0.1/8080",
   "name": "client",
   "version": "0.1.0",
   "private": true,
